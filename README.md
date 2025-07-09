@@ -1,8 +1,7 @@
-Convert Terraria textures to HD
-===============================
+# Waifu world - Terraria Recourse Pack
 
-This project uses github actions for creating the zip file, please see the commands executed here: https://github.com/sullerandras/terraria-hd-textures/blob/master/.github/workflows/build.yaml
+### All works that was used to create this RP
 
-If you use Windows then you should be able to copy the commands from the github actions file and execute them on your local machine.
-
-Alternatively you can fork this repo and enable github actions on your fork. After that you can create a pull request like this (against your own fork!) to build a release: https://github.com/sullerandras/terraria-hd-textures/pull/12
+* [terraria-hd-textures](https://github.com/sullerandras/terraria-hd-textures) by sullerandras
+* [Blue's Textures](https://steamcommunity.com/sharedfiles/filedetails/?id=2493507652) by Blue_M4ge
+* [Waifu Player XXL](https://steamcommunity.com/sharedfiles/filedetails/?id=3003162858) by 1ceberg
