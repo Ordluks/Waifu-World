@@ -1,0 +1,53 @@
+{
+	"ItemName": {
+        "DD2PetGato":  "Aviator Set [Gato Egg]",
+		"FlinxStaff":  "Lycan Rose [Flinx Staff]",
+		"DD2FlameburstTowerT1Popper": "Draconian Rod [Flameburst Rod]",
+		"DD2FlameburstTowerT2Popper": "Draconian Cane [Flameburst Cane]",
+		"DD2FlameburstTowerT3Popper": "Draconian Staff [Flameburst Staff]",
+		"DD2ExplosiveTrapT1Popper": "Explosive Wolf Girl Rod [Explosive Trap Rod]",
+		"DD2ExplosiveTrapT2Popper": "Explosive Wolf Girl Cane [Explosive Trap Cane]",
+		"DD2ExplosiveTrapT3Popper": "Explosive Wolf Girl Staff [Explosive Trap Staff]",
+		"DD2BallistraTowerT1Popper": "Ballista Kitty Rod [Ballista Rod]",
+		"DD2BallistraTowerT2Popper": "Ballista Kitty Cane [Ballista Cane]",
+		"DD2BallistraTowerT3Popper": "Ballista Kitty Staff [Ballista Staff]",
+		"DD2LightningAuraT1Popper": "Lightning Vixen Rod [Lightning Aura Rod]",
+		"DD2LightningAuraT2Popper": "Lightning Vixen Cane [Lightning Aura Cane]",
+		"DD2LightningAuraT3Popper": "Lightning Vixen Staff [Lightning Aura Staff]",
+		"HoundiusShootius": "Wurt's Stick [Houndius Shootius]",
+		"ShadowOrb": "Busty Pup Orb [Shadow Orb]",
+		"EmpressBlade": "BoobPrisma [Terraprisma]",
+		"SunflowerStatue": "Primal Sunflower Bust [Sunflower Statue]"
+},
+	"ItemTooltip": {
+		"DD2PetGato": "'Summons a Busty Afraid Kitty to follow you.'",
+		"FlinxStaff": "'Summons an Animalist to fight for you, from Asteri Mod'",
+		"DD2FlameburstTowerT1Popper": "{$CommonItemTooltip.Sentry}\nA Busty Apprentice Draconian tower that shoots exploding fireballs\n{$CommonItemTooltip.EtherianManaCost10}",
+		"DD2FlameburstTowerT2Popper": "{$CommonItemTooltip.Sentry}\nA Busty Skilled Draconian tower that shoots exploding fireballs\n{$CommonItemTooltip.EtherianManaCost10}",
+		"DD2FlameburstTowerT3Popper": "{$CommonItemTooltip.Sentry}\nA Busty Master Draconian tower that shoots exploding fireballs\n{$CommonItemTooltip.EtherianManaCost10}",
+		"DD2ExplosiveTrapT1Popper": "{$CommonItemTooltip.Sentry}\nAn explosive Wolf Girl that lies on the ground will protect you. She still asleep \n{$CommonItemTooltip.EtherianManaCost10}",
+		"DD2ExplosiveTrapT2Popper": "{$CommonItemTooltip.Sentry}\nAn explosive Wolf Girl that lies on the ground will protect you. She's slowly waking up \n{$CommonItemTooltip.EtherianManaCost10}",
+		"DD2ExplosiveTrapT3Popper": "{$CommonItemTooltip.Sentry}\nAn explosive Wolf Girl that lies on the ground will protect you. She's ready for combat  \n{$CommonItemTooltip.EtherianManaCost10}",
+		"DD2BallistraTowerT1Popper": "{$CommonItemTooltip.Sentry}\nA slow but high damage tower commanded by a Scout Kitty\n{$CommonItemTooltip.EtherianManaCost10}",
+		"DD2BallistraTowerT2Popper": "{$CommonItemTooltip.Sentry}\nA slow but high damage tower commanded by a Knight Kitty\n{$CommonItemTooltip.EtherianManaCost10}",
+		"DD2BallistraTowerT3Popper": "{$CommonItemTooltip.Sentry}\nA slow but high damage tower commanded by a General Kitty\n{$CommonItemTooltip.EtherianManaCost10}",
+		"DD2LightningAuraT1Popper": "{$CommonItemTooltip.Sentry}\nAn Electric Vixen that repeatedly zaps enemies that go inside\n{$CommonItemTooltip.EtherianManaCost10}",
+		"DD2LightningAuraT2Popper": "{$CommonItemTooltip.Sentry}\nA Thunder Vixen that repeatedly zaps enemies that go inside\n{$CommonItemTooltip.EtherianManaCost10}",
+		"DD2LightningAuraT3Popper": "{$CommonItemTooltip.Sentry}\nA Storm Vixen that repeatedly zaps enemies that go inside\n{$CommonItemTooltip.EtherianManaCost10}",
+		"HoundiusShootius": "{$CommonItemTooltip.Sentry}\nSummons Wurt to shoot magic blasts at your enemies\n'Everyone, give me your energy Florp!'",
+		"ShadowOrb": "Creates a magical Shadow Pup",
+		"EmpressBlade": "Summons an Busty Sword to fight for you",
+},
+	"BuffDescription": {
+		"HornetMinion": "",
+		"PetDD2Gato": "",
+		"FlinxMinion": "",
+		"EmpressBlade":"",
+},
+
+      "BuffName": {
+		"PetDD2Gato": "Propeller Gato but Busty\nA Scaredy Busty Kitty is following you.\n 'At your side, I'm not afraid of anything'",
+		"FlinxMinion": "The Animalist from Asteri but Busty\nZoe the Busty Animalist will protect you\n 'I...I...like you Ok?'",
+		"EmpressBlade": "The Busty Blades of the Empress will fight for you",
+		}
+}

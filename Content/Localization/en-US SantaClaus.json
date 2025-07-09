@@ -1,0 +1,38 @@
+{
+	"NPCName": {
+		"SantaClaus": "Mother Claus"
+	},
+	"Bestiary_FlavorText": {
+		"npc_SantaClaus": "While Santa Claus delivers presents, Mother Claus prepares cookies for her husband after a long trip."
+	},
+	"SantaSpecialText": {
+		"Party": "Come now, let's enjoy that Nicholas is not here",
+		"Graveyard1": "This place reminds me of the old Nicholas...oops I said too much.",
+        "Graveyard2": "I know I'm a saint, but I'd rather be in bed with you than here.",
+		"Windy1": "This wind makes my clothes rise...wait what clothes?",
+		"Storm1": "My cookies will take a while to cool down...",
+		"Rain1": "The rain makes me want to drink hot chocolate, would you like a cookie?"
+	},
+	"TownNPCMood_SantaClaus": {
+		"Content": "I am jolly!",
+		"NoHome": "I can't just go back to the north pole when I please, Think you can spot me a temporary house? I made cookies for you!",
+		"FarFromHome": "Hello there! I'm far from my temporary home! My cookies will burn!",
+		"DislikeCrowded": "I prefer to work alone, in the presence of just my elves. I dislike all the distractions!",
+		"HateCrowded": "This is a pretty big crowd, each and every one on the naughty list. I hate carrying that heavy bag of coal!",
+		"LoveSpace": "Ho ho ho! Just me and my elves, a perfect place for my remote workshop.",
+		"LikeBiome": "I like {BiomeName}.",
+		"LoveBiome": "I absolutely love it here! Are you surprised? Who thought I wouldn't like {BiomeName}?",
+		"DislikeBiome": "I dislike {BiomeName}.",
+		"HateBiome": "I'm adding you to the naughty list for putting me in a awful place like {BiomeName}.",
+		"LikeNPC": "I like being around {NPCName}.",
+		"LoveNPC": "I love being around {NPCName}.",
+		"DislikeNPC": "I dislike being around{NPCName}.",
+		"HateNPC": "I hate people who don't believe in me! For example, {NPCName}, the naughtiest I've ever known!",
+		"LikeNPC_Princess": "Oh the, {NPCName} is most certainly on top of the nice list. ",
+	},
+	"LegacyDialog": {
+		"224": "Yes yes i'm don´t get pregnant because... Hi cutie! Do you like a cookie?",
+		"225": "Why does Nicolau never satisfy me?",
+		"226": "What? Did you think I wasn't hot?"
+	}
+}

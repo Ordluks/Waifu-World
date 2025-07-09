@@ -1,0 +1,52 @@
+Key,Translation
+"	",
+,
+NPCName.OldMan,Mujer misteriosa
+Bestiary_FlavorText.npc_OldMan,Esta desventurada mujer carga el peso de una dura maldición. Se dice que en la noche ella se transforma en un horrible demonio que vigila la Mazmorra.
+LoadingTips_Default.20,"La Mujer misteriosa en la Mazmorra es una sastra, si tan solo alguien pudiera liberarla de su maldición..."
+AnglerQuestText.Quest_Fishotron,"No sé qué es peor, un pez hueso o un pez de hueso con MANOS. ¡Este Pez-o-Tron que vive en lo profundo de las cavernas realmente me enloquece! ¡Creo que está poseído por los mismos espíritus malignos que poseían a esa milf en la mazmorra! ¡Pato doble te desafío a ir a atraparlo!"
+LegacyDialog.200,Quizás la mujer de la mazmorra quiera unirse a nosotros ahora que su maldición ha desaparecido.
+,
+ClothierNames.Alfred,Alicia
+ClothierNames.Arthur,Ana
+ClothierNames.Benjamin,Valentina
+ClothierNames.Cedric,Carmen
+ClothierNames.Clive,Camila
+ClothierNames.Cyril,Citlali
+ClothierNames.Edgar,Elena
+ClothierNames.Edmund,Elizabeth
+ClothierNames.Edward,Emma
+ClothierNames.Eustace,Victoria
+ClothierNames.Fitz,Fernanda
+ClothierNames.Graham,Guadalupe
+ClothierNames.Henry,Gabriela
+ClothierNames.Herald,Jessica
+ClothierNames.James,Josefa
+ClothierNames.Lincoln,Letty
+ClothierNames.Lloyd,Lourdes
+ClothierNames.Mervyn,María
+ClothierNames.Nigel,Sofía
+ClothierNames.Pip,Dulce
+ClothierNames.Rodney,Rosa
+ClothierNames.Rodrick,Rocío
+ClothierNames.Roland,Regina
+ClothierNames.Rupert,Diana
+ClothierNames.Sebastian,Salma
+,
+Bestiary_FlavorText.npc_Clothier,"Una vez atrapada bajo una maldición, la Sastra es la maestra de los hilos. Si moda es lo que deseas, ¡Ella es la mujer!. Habla en una manera familiar..."
+TownNPCMood_Princess.LoveNPC_Clothier,"{NPCName} es muy amable conmigo, y me hace un montón de lindos vestidos!"
+LegacyDialog.72,¿Has visto a la mujer caminando por la mazmorra? No se ve bien en lo absoluto...
+LegacyDialog.32,¿Has visto a esa señora que deambula por la mazmorra? Parece un tanto preocupada.
+TownNPCMood_Mechanic.HateNPC,Odio como {NPCName} no sabe ser amable con otras mujeres!
+LegacyDialog.113,Mi sombrero te queda lindo! Lo hiciste tu?
+LegacyDialog.112,{Nurse}? Me recuerda a una leyenda popular en mi pueblo natal.
+TownNPCMood_Clothier.LoveSpace,"Puede que no sea muy popular, pero sé lo que es la tranquilidad."
+,
+ItemName.RedHat,Sombrero de la Catrina
+ItemTooltip.RedHat,Huele a flores!
+ItemName.ClothierVoodooDoll,Calaverita de azucar maldita
+,
+,
+NPCName.Clothier,Sastra
+LegacyDialog.115,Mamá siempre dijo que sería una buena sastra.
+LegacyDialog.119,"La maldición me ha convertido en un ser solitario, una vez me hice amiga de un muñeco de cuero. Lo llamaba Wilson."

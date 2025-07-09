@@ -1,0 +1,61 @@
+﻿{
+	"ItemName": {
+		"MoonLordTrophy": "Third Impact Trophy",
+		"MoonLordMasterTrophy": "Third Impact Relic",
+		"MoonLordBossBag": "Spoils of the Third Impact",
+
+		"SuspiciousLookingTentacle": "Suspicious Looking Embryo",
+		"MoonLordPetItem": " ",
+
+		"LunarFlareBook": "Book of Lilith",
+		"MoonlordTurretStaff": "Lilith's Staff",
+		"Terrarian": "Lilith's Terrarian",
+		"MoonlordArrow": "Arrow of Lilith",
+		"MoonlordBullet": "Bullet of Lilith",
+
+		"MusicBoxLunarBoss": "Music Box (Third Impact)",
+		"MusicBoxOWMoonLord": "Otherworldly Music Box (Third Impact)",	
+		"MoonLordPainting": "Lilith Painting",	
+		"MorbidCuriosity": "Third Impact Painting",	
+
+		"BlueLunaticHood": "SEELE Cult Hood",
+		"BlueLunaticRobe": "SEELE Cult Robe",
+		"MoonLordLegs": "Legs of Adam",
+		"BossMaskMoonlord": "Mask of the Fourth Angel",
+
+		"LunarCraftingStation": "Station of Adam",
+		"VoidMonolith": "Tribute of Lilith",
+	},
+	"ItemTooltip": {
+		"CelestialSigil": "Calls apon the Third Impact \n 'It all returns to nothing.'",
+		"SuspiciousLookingTentacle": "Summons Ramiel Pet. \n'An Angelic Friend.'",
+
+		"LunarFlareBook": "Rains down a hail of light summoned by Lilith",
+		"MoonlordTurretStaff": "Summons an Angel's portal to shoot lasers at your enemies",
+
+		"MoonlordArrow": "'An arrow covered in the blood of Lilith.'",
+		"MoonlordBullet": "'A bullet filled with the essence of Lilith.'",
+		
+		"MoonLordPainting": "A painting of the second angel.",	
+		"MorbidCuriosity": "'It all returns to nothing.'",	
+
+		"BossMaskMoonlord": "'How did this get here?'",
+
+		"Void Monolith": "Void: 'Harness a small amount of power from the Lilith'",
+		"LunarCraftingStation": "Used to craft items from Lilith",
+	},
+	"BuffName": {
+		"MoonLeech": "Haunting of the Angels",
+		"MoonLordPet": "Haunting of the Angels",
+		"SuspiciousLookingEye": "Embodyment of Ramiel",
+	},
+	"BuffDescription": {
+		"MoonLeech": "You are unable to absorb healing effects",
+		"MoonLordPet": "A friend from the heavens",
+		"SuspiciousLookingEye": "An Angelic Friend",
+		"LunaticCultistPet": "It keeps looking at the Moon",
+	},
+	"Bestiary_FlavorText": {
+		"npc_MoonLordCore": "Lilith's arrival on Earth was an accident, freed from her empyreal prison. Practically a god, her power knows no limits.",
+	}
+}

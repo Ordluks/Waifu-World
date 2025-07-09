@@ -1,0 +1,21 @@
+{
+	"NPCName": {
+		"OldMan": "Misteryous Lady"
+	},
+	"Bestiary_FlavorText": {
+		"npc_OldMan": "This hapless Misteryous Lady carries the burden of a heavy curse. It's said at night he transforms into a horrific demon which guards the Dungeon."
+	},
+	"LegacyDialog": {
+		"82": "I cannot let you enter until you free me of my curse.",
+		"83": "Come back at night if you wanna come in...or fuck.",
+		"84": "My master can't be summoned in daylight, nor can my pussy.",
+		"85": "You are far too weak to defeat my curse.  Come back when you aren't so worthless.",
+		"86": "You pathetic fool.  You cannot hope to face my master as you are now.",
+		"87": "I hope you have like six friends standing around behind you.",
+		"88": "Please, no, stranger. You'll only get yourself killed.",
+		"89": "You just might be strong enough to free me from my curse...",
+		"90": "Stranger, do you possess the strength to defeat my master? Or to penetrate me?",
+		"91": "Please fuck me to see if my master comes to you!",
+		"92": "Defeat my master, and I will grant you passage into the Dungeon. And maybe I'll satisfy you too."
+	}
+}

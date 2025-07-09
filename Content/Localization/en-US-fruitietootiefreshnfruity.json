@@ -1,0 +1,32 @@
+{
+    "ItemName": {
+        "CrimsonCloak": "Suspicious Looking Leaf",
+        	"TikiMask": "Fruity Crown",
+        	"TikiShirt": "Juicy Fruity Chest",
+		"TikiPants": "Ominously Fruity Thigh-highs",
+        	"PygmyStaff": "Berry Powerful Staff",
+    },
+    "ItemTooltip": {
+        "CrimsonCloak": "You should probably give it back...",
+		"TikiMask": "Don't touch it.",
+        	"TikiShirt": "Tastes nothing like mango honestly.
+Don't ask me why I know.",
+        	"TikiPants": "With legs like these you can sit on anything!
+Or anyone!",
+        	"PygmyStaff": "Summon a tribe of fruit to date on you!
+Oh, sorry, I meant dote on you.",
+	},
+	"ProjectileName": {
+	"Pygmy": "Bounsweet",
+		"Pygmy2": "Spinning Bounsweet",
+		"Pygmy3": "Bounsweet",
+		"Pygmy4": "Shiny Bounsweet",
+		"PygmySpear": "Bounsweet"
+	},
+	"BuffName": {
+		"Pygmies": "Boundless Bounsweets",
+	},
+	"BuffDescription": {
+		"Pygmies": "Ok well maybe not THAT many, but could you imagine?",
+	}
+}

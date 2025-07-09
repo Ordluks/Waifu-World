@@ -1,0 +1,66 @@
+{
+	"NPCName": {
+		"TownSlimeBlue": "Nerdy Slimegirl",
+		"TownSlimeGreen": "Cool Slimegirl",
+		"TownSlimeOld": "Dapper Slimegirl",
+		"TownSlimePurple": "Clumsy Slimegirl",
+		"TownSlimeRainbow": "Diva Slimegirl",
+		"TownSlimeRed": "Grumpy Slimegirl",
+		"TownSlimeYellow": "Mystic Slimegirl",
+		"TownSlimeCopper": "Squire Slimegirl",
+		"BoundTownSlimeOld": "Slimy Locked Chest",
+		"BoundTownSlimePurple": "Clumsy Balloon Slimegirl",
+		"BoundTownSlimeYellow": "Mystic Slimy Frog"
+	},
+	"SlimeBlueChatter": {
+		"Chatter_1": "Hmmm. Did you know it was me who thought of dressing up to show we were friendly?",
+		"Chatter_2": "Oh, uh, hi... Gulp!",
+		"Chatter_3": "Uh-huh. Uh-huh. Oh, sorry, I was distracted figuring out 9 plus 10. So many possible answers!"
+	},
+	"SlimeGreenChatter": {
+		"Chatter_1": "Check out my drip!",
+		"Chatter_2": "Sizzle fo shizzle! What, you don't understand? Maybe you will once you're as cool as I am.",
+		"Chatter_3": "Yo, you got a slurpee machine around here?"
+	},
+	"SlimeOldChatter": {
+		"Chatter_1": "Grumble... Some of the townsfolk are so uncivilized compared to me!",
+		"Chatter_2": "Ahem! A moment of your time, if I may.",
+		"Chatter_3": "Pshaw! To think I could ever be confused for a normal slime. Absolutely preposterous."
+	},
+	"SlimeRainbowChatter": {
+		"Chatter_1": "I may gleam like a disco ball, but I'm the center of parties for more than just that!",
+		"Chatter_2": "Sprinkles go amazing on every food. Trust me!",
+		"Chatter_3": "Ripples in water put me into a trance. Just about the only time you'll see me calm down!"
+	},
+	"SlimePurpleChatter": {
+		"Chatter_1": "Burp. Oh, I'm so sorry!",
+		"Chatter_2": "I... Hey... I'll just... Yeah.",
+		"Chatter_3": "Don't mind the splat on the wall, I wasn't watching where I was going."
+	},
+	"SlimeRedChatter": {
+		"Chatter_1": "I'll murder that... Oh, didn't see you there.",
+		"Chatter_2": "A flying snake hissed at me once. The nerve!",
+		"Chatter_3": "Heh. A little misfortune on others brings me some joy."
+	},
+	"SlimeYellowChatter": {
+		"Chatter_1": "Bubble bubble, toil and trouble! Oh, right, I don't have my caldron.",
+		"Chatter_2": "Blobra kaslobra! ...Being a slime makes it hard to pronounce my spells right.",
+		"Chatter_3": "All I remeber is a splash, the croaking. Now I'm here. Know anything about that?"
+	},
+	"SlimeCopperChatter": {
+		"Chatter_1": "Huzzah! I bested a mighty grasshopper!",
+		"Chatter_2": "Slash! Stab! Ah, I see you admiring my training.",
+		"Chatter_3": "Squish 'n bonk your foes! I believe in you!"
+	},
+	"Bestiary_FlavorText": {
+		"npc_TownSlimeBlue": "Just a smidge cleverer than other slimegirls, she discovered how to coexist with humans. The secret: accessorizing!",
+		"npc_TownSlimeGreen": "Easily the coolest slimegirl around, no question. You can tell from the backwards hat and indecipherable slang.",
+		"npc_TownSlimeOld": "A little older, though not necessarily wiser, the other slimegirls look up to the Dapper Slimegirl. If she survived this long, she must know something!",
+		"npc_TownSlimePurple": "This slimegirl was a little confused when the other slimegirls started putting on hats and accessories. But she did her best.",
+		"npc_TownSlimeRainbow": "Born of the combined energies of Shimmer and the Queen Slime, this slimegirl is full of boundless energy and enthusiasm! And so fancy!",
+		"npc_TownSlimeRed": "Irascible and insufferable, this grumpy slimegirl is probably up to no good. Probably. It's the thought that counts, really.",
+		"npc_TownSlimeYellow": "This slimegirl knows that great witches wear impressive hats, but she only found a droopy one. Might explain the backfired polymorph!",
+		"npc_TownSlimeCopper": "A hero amongst slimegirlss, it wields the greatest arms and armor known to her kind. She doesn't actually know how to use them, but it's a start.",
+		"npc_BoundTownSlimeYellow": "A strange, slimy, frog with a funny hat, surrounded by potent magic! Perhaps something can break its curse... kissing it would be impure though!"
+	}
+}
